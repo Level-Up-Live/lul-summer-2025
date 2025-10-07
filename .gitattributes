@@ -1,1 +1,2 @@
 LUL-Simulator-V0.1.unitypackage filter=lfs diff=lfs merge=lfs -text
+Simulator_CustomGames.unitypackage filter=lfs diff=lfs merge=lfs -text
